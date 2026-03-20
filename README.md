@@ -11,10 +11,10 @@ I think in systems, not just screens.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhavin.2304patel@gmail.com](mailto:bhavin.2304patel@gmail.com)
-* 🔭 I'm currently working on — improving my Next.js and backend skills by building personal project's
-* 👥 I'm looking to collaborate on — frontend or fullstack project's built with React or Next.js, or Ai-drive project's
-* 🌱 I'm currently learning — TypeScript and backend development with Node.js
-* ⚡ Fun fact — I evaluated 700+ images for a single website project before shipping the final ones to production
+* 🔭 I'm currently working on - improving my Next.js and backend skills by building personal project's
+* 👥 I'm looking to collaborate on - frontend or fullstack project's built with React or Next.js, or even Ai-drive project's
+* 🌱 I'm currently learning - TypeScript and backend development with Node.js
+* ⚡ Fun fact - I evaluated 700+ images for a single website project before shipping the final ones to production
 
 
 <p align="left">
