@@ -5,7 +5,7 @@ Frontend Developer, Aspiring Full-Stack Engineer.
 -------------------------------------------------
 Frontend Developer who builds with React, Next.js, JavaScript, Tailwind CSS, and Redux. I care about clean component architecture, maintainable code, and writing things that actually work in production - not just in dev mode.
 
-Currently leveling up toward fullstack — learning backend systems, APIs, databases, and system design so I can own products end-to-end, not just the UI layer.
+Currently leveling up toward fullstack - learning backend systems, APIs, databases, and system design so I can own products end-to-end, not just the UI layer.
 
 I think in systems, not just screens.
 
